@@ -62,8 +62,8 @@ jobs:
 
     - name: Commit and Push changes
       run: |
-        git add $(pwd)/output/iptv.txt
-        git add $(pwd)/output/iptv.m3u
+        git add $(pwd)/iptv.txt
+        git add $(pwd)/iptv.m3u
         git add $(pwd)/README.md
         git commit -m "Update on $DATE" --allow-empty
         git push origin main
