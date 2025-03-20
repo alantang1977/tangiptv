@@ -29,68 +29,6 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://myott.top/stream/DT6QU63K5VX/85.m3u8
 #EXTINF:-1 tvg-name="BBC NEWS",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BesTV-1",BesTV-1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000002898&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-10",BesTV-10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-11",BesTV-11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-12",BesTV-12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-13",BesTV-13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000030&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-14",BesTV-14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000049&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-15",BesTV-15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-17",BesTV-17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000001116&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-18",BesTV-18
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000017342&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-19",BesTV-19
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000025&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-2",BesTV-2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000004876&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-20",BesTV-20
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000029&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-3",BesTV-3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000006777&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-4",BesTV-4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000018009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-5",BesTV-5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000019233&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-6",BesTV-6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000022620&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-7",BesTV-7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000023256&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-8",BesTV-8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000026930&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV-9",BesTV-9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV全球大片",BesTV全球大片
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV华语影院",BesTV华语影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV宝宝动画",BesTV宝宝动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV戏曲精选",BesTV戏曲精选
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288012&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV星光影院",BesTV星光影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288013&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV热门剧场",BesTV热门剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288010&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV热门综艺",BesTV热门综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV电竞天堂",BesTV电竞天堂
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV百变课堂",BesTV百变课堂
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV看天下精选",BesTV看天下精选
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV谍战剧场",BesTV谍战剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="BesTV青春动漫",BesTV青春动漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288008&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="Bloomberg TV",Bloomberg TV
 https://tv.iill.top/4gtv/283
 #EXTINF:-1 tvg-name="CCTV-1",CCTV-1
@@ -453,258 +391,6 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 https://www.freetv.top/migu/673168140.m3u8?migutoken=0da58ce201ccbaa27adea8bad67c52c5982d593a4a81c4ad50f52378e1195084ebc7af82791a319d9d68933866d72de7168332e6884503ab10c0fadb12bf6d5edf08d16b45cc379df009de1e82
 #EXTINF:-1 tvg-name="CCTV-9",CCTV-9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000004953&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000002226&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030810&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000012827&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000016738&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031106&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040012&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031107&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000001827&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031108&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006673&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000023358&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6113730085955692619&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000018417&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031109&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000008000023254&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000008000023253&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000031113&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031101&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8878432746825677699&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000020548&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000008883&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000030093&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031102&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000008885&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000016619&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=4867251683694877276&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=7680777599813046442&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031127&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=5350361928876847638&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000008886&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018433&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265006&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6994512760913257617&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000026715&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031104&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000008888&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018377&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8967744667154419073&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018384&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288020&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6350727550077620987&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="CETV1",CETV1
 https://video.mytvsuper.xyz/live/ff361c70d87107897a53690d0144b38ac4c50d04130bd316938f7eef9844c9a8.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="CETV1",CETV1
@@ -735,20 +421,6 @@ http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVCh
 https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 #EXTINF:-1 tvg-name="CETV4",CETV4
 http://183.11.239.36:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-name="CGTN",CGTN
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CGTN",CGTN
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CGTN俄语",CGTN俄语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CGTN法语",CGTN法语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CGTN纪录",CGTN纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CGTN西班牙语",CGTN西班牙语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="CGTN阿拉伯语",CGTN阿拉伯语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
@@ -849,26 +521,6 @@ https://video.mytvsuper.xyz/live/006a6e6ca5c58c38c175f446db9578491a299dbc709a887
 https://tv.iill.top/4gtv/139
 #EXTINF:-1 tvg-name="Love Nature",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="NewTV东北热剧",NewTV东北热剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV东北热剧",NewTV东北热剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV中国功夫",NewTV中国功夫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV中国功夫",NewTV中国功夫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV军事评论",NewTV军事评论
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV军事评论",NewTV军事评论
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV军旅剧场",NewTV军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV军旅剧场",NewTV军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV农业致富",NewTV农业致富
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV农业致富",NewTV农业致富
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="NewTV动作电影",NewTV动作电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影",NewTV动作电影
@@ -877,156 +529,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影",NewTV动作电影
 http://43.138.0.72:35455/yy/1382736823
-#EXTINF:-1 tvg-name="NewTV动作电影",NewTV动作电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV动作电影",NewTV动作电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV动作电影",NewTV动作电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV古装剧场",NewTV古装剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV古装剧场",NewTV古装剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵电竞",NewTV哒啵电竞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵电竞",NewTV哒啵电竞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵赛事",NewTV哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵赛事",NewTV哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000039&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵赛事",NewTV哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000040&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵赛事",NewTV哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵赛事",NewTV哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV哒啵赛事",NewTV哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV家庭剧场",NewTV家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV家庭剧场",NewTV家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV家庭剧场",NewTV家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV怡伴健康",NewTV怡伴健康
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV怡伴健康",NewTV怡伴健康
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV怡伴健康",NewTV怡伴健康
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV明星大片",NewTV明星大片
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV欢乐剧场",NewTV欢乐剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV欢乐剧场",NewTV欢乐剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV武搏世界",NewTV武搏世界
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV武搏世界",NewTV武搏世界
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆",NewTV潮妈辣婆
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆",NewTV潮妈辣婆
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV炫舞未来",NewTV炫舞未来
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV炫舞未来",NewTV炫舞未来
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV爱情喜剧",NewTV爱情喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV爱情喜剧",NewTV爱情喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品体育",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品体育",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品体育",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品大剧",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品大剧",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品大剧",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品纪录",NewTV精品纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品纪录",NewTV精品纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品纪录",NewTV精品纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品萌宠",NewTV精品萌宠
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV精品萌宠",NewTV精品萌宠
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级体育",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级体育",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级体育",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级体育",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电影",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电影",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电影",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电影",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电视剧",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电视剧",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电视剧",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级电视剧",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级综艺",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级综艺",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级综艺",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV超级综艺",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV金牌综艺",NewTV金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV金牌综艺",NewTV金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV金牌综艺",NewTV金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV魅力潇湘",NewTV魅力潇湘
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV魅力潇湘",NewTV魅力潇湘
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV魅力潇湘",NewTV魅力潇湘
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV黑莓动画",NewTV黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV黑莓动画",NewTV黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV黑莓动画",NewTV黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV黑莓电影",NewTV黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV黑莓电影",NewTV黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="NewTV黑莓电影",NewTV黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="Now星影台",Now星影台
 https://video.mytvsuper.xyz/live/3ad4824943e874308920c6cc51d8e77e22c2486360a9ac065fa710a29a1020b3.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="PopC",PopC
@@ -1051,66 +559,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK 35",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="SiTV七彩戏剧",SiTV七彩戏剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031116&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV七彩戏剧",SiTV七彩戏剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV东方财经",SiTV东方财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000007000010003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV东方财经",SiTV东方财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV乐游",SiTV乐游
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040025&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV乐游",SiTV乐游
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031112&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV乐游",SiTV乐游
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV乐游",SiTV乐游
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV动漫秀场",SiTV动漫秀场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000023636&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV动漫秀场",SiTV动漫秀场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031113&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV动漫秀场",SiTV动漫秀场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV劲爆体育",SiTV劲爆体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000029972&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV劲爆体育",SiTV劲爆体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV欢笑剧场",SiTV欢笑剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000009455&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV欢笑剧场",SiTV欢笑剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000007000010001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV欢笑剧场",SiTV欢笑剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV法治天地",SiTV法治天地
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=9001547084732463424&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV法治天地",SiTV法治天地
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV游戏风云",SiTV游戏风云
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000027005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV游戏风云",SiTV游戏风云
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031114&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV游戏风云",SiTV游戏风云
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV生活时尚",SiTV生活时尚
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000019634&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV生活时尚",SiTV生活时尚
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV都市剧场",SiTV都市剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000004412&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV都市剧场",SiTV都市剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031111&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV都市剧场",SiTV都市剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV金色学堂",SiTV金色学堂
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000026105&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV金色学堂",SiTV金色学堂
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000061&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV魅力足球",SiTV魅力足球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031207&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="SiTV魅力足球",SiTV魅力足球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="TVB Plus",TVB Plus
 https://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1 tvg-name="TVB Plus",TVB Plus
@@ -1197,66 +645,6 @@ https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="amc电影台",amc电影台
 http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-#EXTINF:-1 tvg-name="iHOT爱体育",iHOT爱体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱体育",iHOT爱体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱动漫",iHOT爱动漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱动漫",iHOT爱动漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱历史",iHOT爱历史
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱历史",iHOT爱历史
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱喜剧",iHOT爱喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱喜剧",iHOT爱喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱奇谈",iHOT爱奇谈
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱奇谈",iHOT爱奇谈
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱幼教",iHOT爱幼教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱幼教",iHOT爱幼教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱悬疑",iHOT爱悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱悬疑",iHOT爱悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱旅行",iHOT爱旅行
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱旅行",iHOT爱旅行
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱浪漫",iHOT爱浪漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱浪漫",iHOT爱浪漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱玩具",iHOT爱玩具
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱玩具",iHOT爱玩具
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱科学",iHOT爱科学
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱科学",iHOT爱科学
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱科幻",iHOT爱科幻
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱科幻",iHOT爱科幻
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱谍战",iHOT爱谍战
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱谍战",iHOT爱谍战
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱赛车",iHOT爱赛车
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱赛车",iHOT爱赛车
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱院线",iHOT爱院线
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="iHOT爱院线",iHOT爱院线
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="now新闻",now新闻
 https://video.mytvsuper.xyz/live/30c9c5ba7882c593484f60c34e45deefb24f2700680ab0893741d9f297698a88.php?token=825716213175186
 #EXTINF:-1 tvg-name="tvN",tvN
@@ -1335,8 +723,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227172/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="三沙卫视",三沙卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 tvg-name="三沙卫视",三沙卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288016&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="三立台湾",三立台湾
 https://video.mytvsuper.xyz/live/b44650231f95ab836b2ed7441d7029f4274073600361945982873635e4363514.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="三立台湾",三立台湾
@@ -1355,26 +741,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="三立新闻",三立新闻
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
-#EXTINF:-1 tvg-name="上海ICS",上海ICS
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030951&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海ICS",上海ICS
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288018&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海ICS",上海ICS
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海东方影视",上海东方影视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000032212&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海东方影视",上海东方影视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海五星体育",上海五星体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000017540&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海五星体育",上海五星体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海哈哈炫动",上海哈哈炫动
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000031641&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海哈哈炫动",上海哈哈炫动
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031123&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海哈哈炫动",上海哈哈炫动
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="上海外语",上海外语
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IAS,httpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海外语",上海外语
@@ -1385,8 +751,6 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8
 http://139.196.214.238/rtp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="上海外语",上海外语
 http://139.196.151.191:2051/rtp/239.45.1.127:5140
-#EXTINF:-1 tvg-name="上海教育",上海教育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288019&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="上海新闻综合",上海新闻综合
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海新闻综合",上海新闻综合
@@ -1397,10 +761,6 @@ https://tv.iill.top/migu/shxw
 http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 #EXTINF:-1 tvg-name="上海新闻综合",上海新闻综合
 http://api2.52tb.xyz/info?id=371&token=20230218qkyjia
-#EXTINF:-1 tvg-name="上海新闻综合",上海新闻综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031110&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海新闻综合",上海新闻综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="上海滩",上海滩
 http://61.133.118.228:5001/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩",上海滩
@@ -1419,34 +779,16 @@ https://video.mytvsuper.xyz/live/965f34432a8ffaaf9eb7524ca219c226309e02ab0b43bad
 http://live.xmcdn.com/live/56/64.m3u8
 #EXTINF:-1 tvg-name="上海第一财经",上海第一财经
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="上海第一财经",上海第一财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000027146&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海第一财经",上海第一财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="上海纪实",上海纪实
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实",上海纪实
 http://139.129.231.228/rtp/239.21.1.171:5002
-#EXTINF:-1 tvg-name="上海纪实人文",上海纪实人文
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000021713&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海纪实人文",上海纪实人文
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000010282&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海纪实人文",上海纪实人文
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海纪实人文",上海纪实人文
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海纪实人文",上海纪实人文
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="上海都市",上海都市
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IAS,httpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海都市",上海都市
 http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
 #EXTINF:-1 tvg-name="上海都市",上海都市
 http://t8622699o8.vicp.fun:60024/itv/5000000010000018926.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="上海都市",上海都市
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018926&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="上海都市",上海都市
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000012&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="上虞文化影视",上虞文化影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="上虞文化影院",上虞文化影院
@@ -1481,16 +823,6 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.104:5146
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000005829&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000010584&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7721801662260370363&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000518
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
@@ -1511,26 +843,6 @@ https://tv.bfsu.edu.cn/hls/dfhd.m3u8
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014098&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000032246&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6690661682550849647&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4699937686040264690&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="东方影视",东方影视
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IAS,httpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="东方影视",东方影视
@@ -1587,34 +899,6 @@ http://61.221.215.25:8800/hls/40/index.m3u8
 http://1.94.31.214:35455/huya/11342413
 #EXTINF:-1 tvg-name="中华美食",中华美食
 http://61.133.118.228:5001/yy/1354930954
-#EXTINF:-1 tvg-name="中华美食",中华美食
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中华美食",中华美食
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国天气",中国天气
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000031974&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国天气",中国天气
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育1台",中国教育1台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000002652&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育1台",中国教育1台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育1台",中国教育1台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育2台",中国教育2台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031201&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育2台",中国教育2台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288017&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育2台",中国教育2台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育2台",中国教育2台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育4台",中国教育4台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000012123&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育4台",中国教育4台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031126&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="中国教育4台",中国教育4台
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="中国蓝新闻",中国蓝新闻
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 tvg-name="中国蓝新闻",中国蓝新闻
@@ -1705,12 +989,6 @@ http://[2409:8087:74d2:21::6]/270000001128/9900000035/index.m3u8
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040019&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031120&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="云和新闻综合",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="云霄综合",云霄综合
@@ -1737,10 +1015,6 @@ http://139.196.214.238/rtp/239.45.3.210:5140
 http://139.196.151.191:2051/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="井研综合",井研综合
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-#EXTINF:-1 tvg-name="亚洲影院",亚洲影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="亚洲影院",亚洲影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="亳州农村",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 #EXTINF:-1 tvg-name="亳州新闻",亳州新闻
@@ -1815,8 +1089,6 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 #EXTINF:-1 tvg-name="偃师新闻",偃师新闻
 http://live.dxhmt.cn:9081/tv/10381-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
-#EXTINF:-1 tvg-name="健康养生",健康养生
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288006&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="光山综合",光山综合
 http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 #EXTINF:-1 tvg-name="光山综合",光山综合
@@ -1855,10 +1127,6 @@ http://183.11.239.36:808/hls/21/index.m3u8
 https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 #EXTINF:-1 tvg-name="兵团五师双河新闻综合",兵团五师双河新闻综合
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040020&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="内乡综合",内乡综合
 http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
 #EXTINF:-1 tvg-name="内乡综合",内乡综合
@@ -1885,8 +1153,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="内蒙古经济生活",内蒙古经济生活
 https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="内蒙少儿",内蒙少儿
@@ -1899,10 +1165,6 @@ https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 #EXTINF:-1 tvg-name="内黄综合",内黄综合
 http://live.dxhmt.cn:9081/tv/10527-1.m3u8?
-#EXTINF:-1 tvg-name="农林卫视",农林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="农林卫视",农林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="凉山新闻综合",凉山新闻综合
 http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 #EXTINF:-1 tvg-name="利州综合",利州综合
@@ -1961,12 +1223,6 @@ http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=
 http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?zqinghd
 #EXTINF:-1 tvg-name="化隆综合",化隆综合
 https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿",北京卡酷少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265008&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卡酷少儿",北京卡酷少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卡酷少儿",北京卡酷少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000516
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
@@ -1987,24 +1243,6 @@ http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000031556&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000011502&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8258663409451267714&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="北京新闻",北京新闻
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 #EXTINF:-1 tvg-name="北京新闻",北京新闻
@@ -2031,18 +1269,6 @@ http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv7&videoTVCha
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-name="北京科教",北京科教
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-#EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031204&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000065&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="北京财经",北京财经
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 #EXTINF:-1 tvg-name="北京财经",北京财经
@@ -2073,12 +1299,6 @@ https://video.mytvsuper.xyz/live/81fab61173cff692fb7b6643450c5eb72b748166e9c391c
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-name="千禧经典台",千禧经典台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
-#EXTINF:-1 tvg-name="华数4K",华数4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="华数4K",华数4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="华数服务",华数服务
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000025&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="卓尼综合",卓尼综合
 http://pili-live-hls.hfmt.net/gntv/zntv.m3u8?zgand
 #EXTINF:-1 tvg-name="南京信息",南京信息
@@ -2185,8 +1405,6 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 #EXTINF:-1 tvg-name="厦门卫视",厦门卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-name="厦门卫视",厦门卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="双流综合",双流综合
 http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd,
 #EXTINF:-1 tvg-name="双辽综合",双辽综合
@@ -2245,12 +1463,6 @@ http://webmail.axxe.top:4022/rtp/239.3.1.240:8172
 http://alvin.ergotron.net:8000/udp/239.77.1.111:5146
 #EXTINF:-1 tvg-name="吉林卫视",吉林卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOVSARKsxkWGZw7vFUuOj2QqUR6TTs3uuC0H2mr3p6fRRazyiEPmSIyh%2BRO1%2BU3q84
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040013&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031117&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="名山综合",名山综合
 https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
 #EXTINF:-1 tvg-name="吴忠公共",吴忠公共
@@ -2259,10 +1471,6 @@ http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 #EXTINF:-1 tvg-name="周口扶沟",周口扶沟
 http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 tvg-name="咪咕体育-4K",咪咕体育-4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕游戏赛事-1",咪咕游戏赛事-1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="咪咕直播1",咪咕直播1
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-name="咪咕直播10",咪咕直播10
@@ -2349,82 +1557,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000010129/index.m3u
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播9",咪咕直播9
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频-1",咪咕视频-1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-10",咪咕视频-10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-11",咪咕视频-11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-12",咪咕视频-12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-13",咪咕视频-13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-14",咪咕视频-14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-15",咪咕视频-15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-16",咪咕视频-16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-17",咪咕视频-17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-18",咪咕视频-18
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-19",咪咕视频-19
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-2",咪咕视频-2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-20",咪咕视频-20
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-21",咪咕视频-21
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-22",咪咕视频-22
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-23",咪咕视频-23
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-24",咪咕视频-24
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-25",咪咕视频-25
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-26",咪咕视频-26
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-27",咪咕视频-27
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-28",咪咕视频-28
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-29",咪咕视频-29
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-3",咪咕视频-3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-30",咪咕视频-30
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-31",咪咕视频-31
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-32",咪咕视频-32
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-33",咪咕视频-33
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-4",咪咕视频-4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-5",咪咕视频-5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-6",咪咕视频-6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-7",咪咕视频-7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-8",咪咕视频-8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕视频-9",咪咕视频-9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕足球赛事-2",咪咕足球赛事-2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕足球赛事-3",咪咕足球赛事-3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕足球赛事-4",咪咕足球赛事-4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕足球赛事-5",咪咕足球赛事-5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="咪咕足球赛事-6",咪咕足球赛事-6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="哈哈炫动",哈哈炫动
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动",哈哈炫动
@@ -2527,10 +1659,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840706BESTVSMGSMG9/i
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
 http://[2409:8087:4c0a:22:1::4]:6610/170000001115/UmaiCHAN3840706BESTVSMGSMG9/index.m3u8?&AuthInfo=iKAcXCX%2F8sSJnr5njfYL%2Bb%2BLLe3iX6MD%2FSG8Auk%2FYIrBUytcDOb9RAYt8ZWjjY0W6uPIF94XCzPjJb9f5ln6UQ%3D%3D
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006119&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="四川科教",四川科教
 http://112.44.232.224:55080/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="固始综合",固始综合
@@ -2569,10 +1697,6 @@ http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=
 http://183.11.239.36:808/hls/132/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
 http://120.77.205.62:8087/rtp/239.77.0.215:5146
-#EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="大通电视台",大通电视台
 http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8?#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8?
 #EXTINF:-1 tvg-name="天映经典",天映经典
@@ -2601,22 +1725,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450000BESTVSMGSMG/in
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8??
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8798367982904688776&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="天祝综合",天祝综合
 https://play.kankanlive.com/live/1656487214793905.m3u8
 #EXTINF:-1 tvg-name="天龙八部",天龙八部
@@ -2697,10 +1805,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/32
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225726/2/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040022&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="宁夏经济",宁夏经济
 https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="宁夏经济",宁夏经济
@@ -2725,8 +1829,6 @@ https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
 #EXTINF:-1 tvg-name="安多卫视",安多卫视
 http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
-#EXTINF:-1 tvg-name="安多卫视",安多卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
 http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000514
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
@@ -2747,20 +1849,6 @@ http://webmail.axxe.top:4022/rtp/239.3.1.211:8064
 http://alvin.ergotron.net:8000/udp/239.77.1.92:5146
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000027288&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000023002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="安徽国际",安徽国际
 http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 #EXTINF:-1 tvg-name="安徽国际",安徽国际
@@ -2849,10 +1937,6 @@ http://1.94.31.214:35455/huya/23824164
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 #EXTINF:-1 tvg-name="小金综合",小金综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-#EXTINF:-1 tvg-name="少儿动漫",少儿动漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="少儿动漫",少儿动漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="少儿动画",少儿动画
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="屏边综合",屏边综合
@@ -2893,22 +1977,6 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.142:5146
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000020424&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000027763&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7347081113971056899&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7744799445271696577&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="山东国际",山东国际
 http://139.129.231.228/rtp/239.21.1.61:5002
 #EXTINF:-1 tvg-name="山东少儿",山东少儿
@@ -2941,8 +2009,6 @@ http://76.5432123.xyz/杂项代理/学习强国.php?id=sdjy
 http://139.129.231.228/rtp/239.21.1.169:5002
 #EXTINF:-1 tvg-name="山东教育",山东教育
 http://183.11.239.36:808/hls/72/index.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视",山东教育卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="山东文旅",山东文旅
 http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东文旅",山东文旅
@@ -3011,10 +2077,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-name="山西卫视",山西卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视",山西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040023&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="山西卫视",山西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="山西影视",山西影视
 http://60.223.224.176:8888/newlive/live/hls/54/live.m3u8
 #EXTINF:-1 tvg-name="岷县综合",岷县综合
@@ -3101,26 +2163,6 @@ https://www.freetv.top/migu/608831231.m3u8?migutoken=38e3ed7fe869cd63fc2646f6d2d
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
 https://tv.bfsu.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014694&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030417&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=5306115082857917057&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6604532991586541024&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东嘉佳卡通",广东嘉佳卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="广东新闻",广东新闻
 http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="广东新闻",广东新闻
@@ -3165,10 +2207,6 @@ http://live.xmcdn.com/live/252/64.m3u8
 http://120.198.101.106:9901/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东珠江",广东珠江
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广东珠江",广东珠江
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="广元综合",广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 tvg-name="广南电视台",广南电视台
@@ -3255,12 +2293,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/in
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视",广西卫视
 http://[2409:8087:74d2:21::6]:80/270000001128/9900000034/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040014&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031118&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="广西国际",广西国际
 https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 #EXTINF:-1 tvg-name="广西国际",广西国际
@@ -3295,8 +2327,6 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:74d2:21::6]:80/270000001128/9900000066/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-name="康巴卫视",康巴卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="延安一套新闻综合",延安一套新闻综合
 http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 #EXTINF:-1 tvg-name="延边-1",延边-1
@@ -3327,10 +2357,6 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="延边卫视",延边卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="延边卫视",延边卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="开化国家公园",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 #EXTINF:-1 tvg-name="开化新闻综合",开化新闻综合
@@ -3399,10 +2425,6 @@ http://live.xmcdn.com/live/2539/64.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
 #EXTINF:-1 tvg-name="扶沟综合",扶沟综合
 http://live.dxhmt.cn:9081/tv/11621-1.m3u8?
-#EXTINF:-1 tvg-name="探索纪录",探索纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="探索纪录",探索纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="攀枝花新闻综合",攀枝花新闻综合
 http://live.pzhkai.com/xwzhtl/sd/live.m3u8
 #EXTINF:-1 tvg-name="攀枝花新闻综合",攀枝花新闻综合
@@ -3465,10 +2487,6 @@ http://[2409:8087:74d2:21::6]:80/270000001128/9900000045/index.m3u8
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040018&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="新白娘子传奇",新白娘子传奇
 http://61.133.118.228:5001/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇",新白娘子传奇
@@ -3675,10 +2693,6 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010001
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场",欢笑剧场
 http://120.192.226.35:8009/hls/78/index.m3u8
-#EXTINF:-1 tvg-name="欧美影院",欧美影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="欧美影院",欧美影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="歙县综合",歙县综合
 http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
 #EXTINF:-1 tvg-name="武义新闻综合",武义新闻综合
@@ -3729,22 +2743,6 @@ http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed&quot;
 http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 #EXTINF:-1 tvg-name="永昌综合",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
-#EXTINF:-1 tvg-name="求索动物",求索动物
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索动物",求索动物
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索生活",求索生活
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索生活",求索生活
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索科学",求索科学
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索科学",求索科学
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索纪录",求索纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="求索纪录",求索纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="汉源综合",汉源综合
 http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd
 #EXTINF:-1 tvg-name="汕头文旅",汕头文旅
@@ -3761,8 +2759,6 @@ http://tvbox6.com/tv/jstv.php?id=jlzh
 http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 #EXTINF:-1 tvg-name="江津新闻综合",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="江苏优漫卡通",江苏优漫卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="江苏体育",江苏体育
 http://58.221.214.82:9901/tsfile/live/0006_2.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
@@ -3785,24 +2781,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://
 https://tv.bfsu.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000019351&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018509&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265009&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4690153511271751319&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="江苏城市",江苏城市
 https://video.mytvsuper.xyz/live/09de9a61a6377a76c1f5691e16a8bfb3d6c874cdd89488da646f193fe6c1d599.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="江苏城市",江苏城市
@@ -3813,10 +2791,6 @@ https://video.mytvsuper.xyz/live/c0413b8e7eba6cccefdfa0e977b9745a85e30a878c19c51
 https://video.mytvsuper.xyz/live/4c227a6c10dd779a3be6ad442a28db702b786a2d05f5d3513a8c713be5df397a.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="江苏教育",江苏教育
 http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="江苏财富天下",江苏财富天下
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031208&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江苏财富天下",江苏财富天下
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000069&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
 http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000525
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
@@ -3837,18 +2811,6 @@ https://www.freetv.top/migu/783847495.m3u8?migutoken=5edc27b95ce666ed5b5e8e60a5e
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
 https://tv.bfsu.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000032154&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000011210&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5616078396620462481&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="江门侨乡生活",江门侨乡生活
 http://120.77.205.62:8087/rtp/239.77.0.202:5146
 #EXTINF:-1 tvg-name="江门综合",江门综合
@@ -3907,10 +2869,6 @@ http://webmail.axxe.top:4022/rtp/239.3.1.148:8072
 http://alvin.ergotron.net:8000/udp/239.77.1.214:5146
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?key=tvbox6_com
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040016&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="河北少儿科教",河北少儿科教
 http://124.239.135.194:11080/live/sekj/index.m3u8
 #EXTINF:-1 tvg-name="河北都市",河北都市
@@ -3941,12 +2899,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/in
 http://[2409:8087:74d2:21::6]:80/270000001128/9900000027/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000017925&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031119&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="河南民生",河南民生
 http://123.101.157.20:808/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="河南民生",河南民生
@@ -4065,22 +3017,6 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.33:5146
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000007275&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000017320&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4945391150963996912&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7889730693553663314&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="浙江国际",浙江国际
 https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际",浙江国际
@@ -4243,10 +3179,6 @@ http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000262/1.m
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8?
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006211&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="海南少儿",海南少儿
 https://live3.hnntv.cn/srs/tv/sepd.m3u8
 #EXTINF:-1 tvg-name="海南少儿",海南少儿
@@ -4385,22 +3317,6 @@ http://iptv.huuc.edu.cn/hls/szhd.m3u8
 http://alvin.ergotron.net:8000/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000007410&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000024026&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5352218613763113657&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7696950400632248401&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="清河新闻综合",清河新闻综合
 https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="清河经济综艺",清河经济综艺
@@ -4439,20 +3355,6 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
 http://webmail.axxe.top:4022/rtp/239.3.1.138:8044
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014954&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000022140&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="湖北垄上",湖北垄上
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo?
 #EXTINF:-1 tvg-name="湖北垄上",湖北垄上
@@ -4499,24 +3401,6 @@ http://alvin.ergotron.net:8000/udp/239.77.1.5:5146
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000174/index.m3u8??
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006692&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030452&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000265010&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8655038471675748531&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="湖南国际",湖南国际
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
 #EXTINF:-1 tvg-name="湖南国际",湖南国际
@@ -4533,10 +3417,6 @@ http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWFmOTYxMDcyYjExNmU3YzM1MTk5ZjNkOWE4ODRiOTdjJnVpZD0mdXVpZD0yODQzMTQ2MzE5ZDM0MGM3Mjg5MDE2ZjBmMTdlNmI4ZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwMzk4MTgy/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
 http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南快乐垂钓",湖南快乐垂钓
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031206&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南快乐垂钓",湖南快乐垂钓
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="湖南教育",湖南教育
 http://php.jdshipin.com:8880/iptv.php?id=hnjy
 #EXTINF:-1 tvg-name="湖南爱晚",湖南爱晚
@@ -4575,10 +3455,6 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2Ru
 http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南经视",湖南经视
 http://110.53.218.182:9902/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-name="湖南茶频道",湖南茶频道
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031209&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南茶频道",湖南茶频道
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="湖南都市",湖南都市
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
 #EXTINF:-1 tvg-name="湖南都市",湖南都市
@@ -4589,16 +3465,8 @@ http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南都市",湖南都市
 http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通",湖南金鹰卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040024&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南金鹰卡通",湖南金鹰卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="湖南金鹰纪实",湖南金鹰纪实
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000482/1.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰纪实",湖南金鹰纪实
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031203&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="湖南金鹰纪实",湖南金鹰纪实
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="湖州公共",湖州公共
 http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=
 #EXTINF:-1 tvg-name="湖州公共",湖州公共
@@ -4645,10 +3513,6 @@ http://tvbox6.com/tv/jstv.php?id=bhxwzh
 http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="滨海综艺",滨海综艺
 http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="漫游世界",漫游世界
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="漫游世界",漫游世界
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="漫画解说",漫画解说
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-name="漫画解说",漫画解说
@@ -4687,10 +3551,6 @@ https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 #EXTINF:-1 tvg-name="灵宝新闻综合",灵宝新闻综合
 http://live.dxhmt.cn:9081/tv/11282-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
-#EXTINF:-1 tvg-name="炫动3D",炫动3D
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000012&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="炫动3D",炫动3D
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="炫动卡通",炫动卡通
 http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="炫动卡通",炫动卡通
@@ -4707,10 +3567,6 @@ http://139.129.231.228/rtp/239.21.1.117:5002
 http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 #EXTINF:-1 tvg-name="烟台经济科技",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
-#EXTINF:-1 tvg-name="热播精选",热播精选
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="热播精选",热播精选
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="無線新聞台",無線新聞台
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="無線新聞台",無線新聞台
@@ -4781,12 +3637,6 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://alvin.ergotron.net:8000/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040021&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031121&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="甘肃少儿",甘肃少儿
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿",甘肃少儿
@@ -4821,10 +3671,6 @@ http://120.192.226.35:8009/hls/71/index.m3u8
 http://139.196.151.191:2051/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="田东综合",田东综合
 http://pulls.myun.tv/live/0dkp33j5.m3u8
-#EXTINF:-1 tvg-name="电子竞技",电子竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="电子竞技",电子竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="电视指南",电视指南
 http://183.11.239.36:808/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="番薯111",番薯111
@@ -4843,52 +3689,12 @@ http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
 http://tvbox6.com/tv/jstv.php?id=ydzh
 #EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩广场舞",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩竞技",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩竞技",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩竞技",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩竞技",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
 http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩篮球",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩青少",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩青少",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩青少",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩青少",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睢宁三农",睢宁三农
 http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1
 #EXTINF:-1 tvg-name="睢宁综合",睢宁综合
@@ -4939,8 +3745,6 @@ http://live.dxhmt.cn:9081/tv/11081-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11081-1
 http://play.kankanlive.com/live/1620829433464975.m3u8
 #EXTINF:-1 tvg-name="秦安综合",秦安综合
 https://play.kankanlive.com/live/1680577080200944.m3u8
-#EXTINF:-1 tvg-name="移动云VR",移动云VR
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="笑傲江湖",笑傲江湖
 http://live.metshop.top/huya/26355790
 #EXTINF:-1 tvg-name="笑傲江湖",笑傲江湖
@@ -4989,18 +3793,6 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 #EXTINF:-1 tvg-name="精品体育",精品体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
-#EXTINF:-1 tvg-name="精品剧场",精品剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="精品剧场",精品剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="精品综合",精品综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="精品综合",精品综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="精彩影视",精彩影视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="精彩影视",精彩影视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="纪实人文",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文",纪实人文
@@ -5023,8 +3815,6 @@ http://122.117.71.103:8562/http/220.130.87.218:8081/hls/67/809/ch028.m3u8
 https://video.mytvsuper.xyz/live/b656329aba8eb5e407bf501fd319ba19ff6f8df11b4b36e5656a712e06bf11c0.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="纬来电影",纬来电影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-#EXTINF:-1 tvg-name="纯享4K",纯享4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="绍兴公共",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="绍兴文化影视",绍兴文化影视
@@ -5147,10 +3937,6 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济",苏州社会经济
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 tvg-name="英雄联盟音乐节",英雄联盟音乐节
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="英雄联盟音乐节",英雄联盟音乐节
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="茂名公共",茂名公共
 http://120.77.205.62:8087/rtp/239.77.0.205:5146
 #EXTINF:-1 tvg-name="茂名综合",茂名综合
@@ -5239,8 +4025,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="诸暨新闻综合",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="诸暨新闻综合",诸暨新闻综合
@@ -5277,10 +4061,6 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000489/ind
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000489/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025843&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="贾汪新闻",贾汪新闻
 http://tvbox6.com/tv/jstv.php?id=jwxw
 #EXTINF:-1 tvg-name="超级体育",超级体育
@@ -5337,18 +4117,6 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://alvin.ergotron.net:8000/udp/239.77.1.103:5146
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
 http://webmail.axxe.top:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000008940&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000011671&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="辽宁影视剧",辽宁影视剧
 http://tvbox6.com/tv/bfgd.php?id=070
 #EXTINF:-1 tvg-name="辽宁影视剧",辽宁影视剧
@@ -5469,16 +4237,6 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://webmail.axxe.top:4022/rtp/239.3.1.122:8160
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.162:5146
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025797&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4995134319251569870&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="重庆新闻",重庆新闻
 http://live.xmcdn.com/live/128/64.m3u8
 #EXTINF:-1 tvg-name="重庆新闻",重庆新闻
@@ -5605,10 +4363,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 https://tv.bfsu.edu.cn/hls/sxhd.m3u8
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6sNSqmLCqLFl_AJPBXp1qA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO6b4uKEI14SNy0LDiw52LH%2CEND
-#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040017&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="陕西影视",陕西影视
 http://php.jdshipin.com:8880/qly.php?id=6329
 #EXTINF:-1 tvg-name="陕西新闻资讯",陕西新闻资讯
@@ -5643,10 +4397,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/index.m3u8
 http://[2409:8087:74d2:21::6]:80/270000001128/9900000042/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视",青海卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040015&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="青海卫视",青海卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="青海经视",青海经视
 http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763?zqinghd?
 #EXTINF:-1 tvg-name="青海综合",青海综合
@@ -5717,10 +4467,6 @@ http://183.11.239.36:808/hls/133/index.m3u8
 http://dassby.qqff.top:99/live/风云足球/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐",风云音乐
 http://183.11.239.36:808/hls/99/index.m3u8
-#EXTINF:-1 tvg-name="风尚音乐",风尚音乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="风尚音乐",风尚音乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="香港卫视",香港卫视
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-name="香港卫视",香港卫视
@@ -5741,10 +4487,6 @@ http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
 https://live.gprmt.cn/gpnews/hd/live.m3u8?fbl=
 #EXTINF:-1 tvg-name="高平综合",高平综合
 http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
-#EXTINF:-1 tvg-name="高清娱乐",高清娱乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="高清娱乐",高清娱乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="魅力足球",魅力足球
 https://video.mytvsuper.xyz/live/ee76fcac70f54f4d4d8cda1c7a5987a81a4db7604885caf8eb8abf327bddfa23.m3u8?token=825716213175186
 #EXTINF:-1 tvg-name="魅力足球",魅力足球
@@ -5843,20 +4585,6 @@ https://tv.bfsu.edu.cn/hls/hljhd.m3u8
 http://alvin.ergotron.net:8000/udp/239.77.1.6:5146
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8??
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025203&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000031107&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="黑龙江少儿",黑龙江少儿
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿",黑龙江少儿
