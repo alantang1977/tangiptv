@@ -6,9 +6,9 @@ import os
 urls = [
     "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt",
     "http://aktv.space/live.m3u",
-    "https://cnb.cool/junchao.tang/llive/-/git/raw/main/itv.txt",
-    "https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-    "https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u",
+    #"https://cnb.cool/junchao.tang/llive/-/git/raw/main/itv.txt",
+    #"https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+    #"https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u",
 ]
 
 ipv4_pattern = re.compile(r'^http://(\d{1,3}\.){3}\d{1,3}')
