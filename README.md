@@ -3,8 +3,8 @@
 ### 🎈用法如下
 **安装一个IPTV客户端（其它平台上有相关教程）**
 
-**IPTV源网址（TXT）** https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv/main/iptv.txt
+**IPTV源网址（TXT）** https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/tangiptv/main/iptv.txt
 
-**IPTV源网址（M3U）** https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv/main/iptv.m3u
+**IPTV源网址（M3U）** https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/tangiptv/main/iptv.m3u
 
 ![Star History Chart](https://api.star-history.com/svg?repos=alantang1977/iptv)
